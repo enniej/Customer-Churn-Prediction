@@ -1,7 +1,7 @@
 # Customer-Churn-Prediction
 This repository implements a Customer Churn Prediction System for **ConnectTel**, addressing churn's impact on business growth. Using machine learning, it identifies at-risk customers, enabling targeted retention. It includes EDA, feature engineering, model training, evaluation, and documentation to enhance retention, loyalty, and profitability.
 
-This repository contains the implementation of a **Customer Churn Prediction System** for **ConnectTel**, a leading telecommunications company. The project addresses customer churn, a critical challenge that impacts business sustainability and growth. The system identifies at-risk customers by leveraging advanced machine learning techniques, enabling targeted retention strategies and enhancing customer loyalty.
+This project tackles the critical challenge of customer churn faced by ConnectTel, a leading telecommunications company. By employing advanced machine learning techniques, it predicts at-risk customers and provides actionable insights for targeted retention strategies, ultimately improving customer loyalty and driving business growth.
 
 ## Project Objectives
 The key objectives of this project are:
